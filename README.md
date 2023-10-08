@@ -13,6 +13,7 @@
 - 📫 How to reach me **rohankumar5803@gmail.com**
 
 
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=rohancs127&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5"></p>
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/> </a> 
@@ -32,5 +33,4 @@
 <a href="https://www.facebook.com/profile.php?id=100012243734741&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rohan kumar" height="30" width="40" /></a>
 <a href="https://instagram.com/rohan__kumar._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohan__kumar._" height="30" width="40" /></a>
 </p>
-
 
