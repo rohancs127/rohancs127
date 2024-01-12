@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **rohankumar5803@gmail.com**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohancs127" alt="srujan-rai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohancs127" alt="rohancs127" /></p>
 
 
 <h2 align="left">Languages and Tools:</h2>
