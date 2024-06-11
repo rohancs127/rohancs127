@@ -3,11 +3,9 @@
 <h1 align="center">Hello There 👋, I'm Rohan</h1>
 <h3 align="center">Passionate Student | Programming and Web Development Enthusiast</h3>
 
-- 🌱 I’m currently learning **MERN stack and Linux**
-
-- 👨‍💻 All of my works are available at [rohancs127](https://github.com/rohancs127)
-
-- 📫 How to reach me **rohankumar5803@gmail.com**
+<p align="center">- 🌱 I’m currently learning **MERN stack and Linux**</p>
+<p align="center">- 👨‍💻 All of my works are available at <a href="https://github.com/rohancs127">rohancs127</a></p>
+<p align="center">- 📫 How to reach me <strong>rohankumar5803@gmail.com</strong></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohancs127" alt="rohancs127" /></p>
 
