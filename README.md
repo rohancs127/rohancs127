@@ -3,7 +3,7 @@
 <h1 align="center">Hello There 👋, I'm Rohan</h1>
 <h3 align="center">Passionate Student | Programming and Web Development Enthusiast</h3>
 
-<p align="center"><img align="center" src="https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM1Njg0NjAsIm5iZiI6MTcyMzU2ODE2MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODEzVDE2NTYwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWQ4ZDliNjA5NWI3OGI4ZTAzODQzY2U1Yzg5N2VkOTdhZDc3OTNlY2Y1ZGFlZTg1OThlYzI2MGYyMGU4NDRhNGMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EPnM61CJaE_arQ5PCtsabfHeaS3Khhs6U74dvIvnvUg" /></p>
+<p align="center"><img align="center" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" /></p>
 
 <p align="center">- 🌱 I’m currently learning **MERN stack and Linux**</p>
 <p align="center">- 👨‍💻 All of my works are available at <a href="https://github.com/rohancs127">rohancs127</a></p>
