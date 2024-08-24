@@ -5,7 +5,7 @@
 
 <p align="center"><img align="center" src="https://github.com/raghavk16/raghavk16/blob/master/coderman.gif" /></p>
 
-<p align="center">- 🌱 I’m currently learning **MERN stack and Linux**</p>
+<p align="center">- 🌱 I’m currently learning <strong>MERN stack and Linux</strong></p>
 <p align="center">- 👨‍💻 All of my works are available at <a href="https://github.com/rohancs127">rohancs127</a></p>
 <p align="center">- 📫 How to reach me <strong>rohankumar5803@gmail.com</strong></p>
 
